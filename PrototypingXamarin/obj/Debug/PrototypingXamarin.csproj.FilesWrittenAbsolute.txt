@@ -1,0 +1,14 @@
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.App.xaml
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.PrototypingXamarinPage.xaml
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.Views.LoginPage.xaml
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.App.xaml.g.cs
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.PrototypingXamarinPage.xaml.g.cs
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.Views.LoginPage.xaml.g.cs
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/bin/Debug/PrototypingXamarin.dll.mdb
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/bin/Debug/PrototypingXamarin.dll
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.dll
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/obj/Debug/PrototypingXamarin.dll.mdb
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/bin/Debug/Xamarin.Forms.Core.dll
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/mzennis/Projects/PrototypingXamarin/PrototypingXamarin/bin/Debug/Xamarin.Forms.Xaml.dll

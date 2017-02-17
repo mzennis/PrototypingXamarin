@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{27A66077-9EB7-4603-82FD-6F7338B55998}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrototypingXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D51F2701-5AEC-472D-A32F-5168660F5E34" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrototypingXamarin/Views/LoginPage.xaml">
+    <Files>
+      <File FileName="PrototypingXamarin/Views/DetailPage.cs" Line="1" Column="1" />
+      <File FileName="PrototypingXamarin/App.xaml" Line="1" Column="1" />
+      <File FileName="PrototypingXamarin/Views/LoginPage.xaml.cs" Line="16" Column="60" />
+      <File FileName="PrototypingXamarin/Views/LoginPage.xaml" Line="22" Column="28" />
+      <File FileName="PrototypingXamarin/Views/MoviesPage.cs" Line="26" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrototypingXamarin.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

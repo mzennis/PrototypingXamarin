@@ -1,0 +1,17 @@
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/optimized/bg.png
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/optimized/xamagon.png
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/PrototypingXamarin.iOS.exe.mdb
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/PrototypingXamarin.iOS.exe
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/PrototypingXamarin.iOS.exe
+/Users/mzennis/Projects/PrototypingXamarin/iOS/obj/iPhoneSimulator/Debug/PrototypingXamarin.iOS.exe.mdb
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/PrototypingXamarin.dll
+/Users/mzennis/Projects/PrototypingXamarin/iOS/bin/iPhoneSimulator/Debug/PrototypingXamarin.dll.mdb

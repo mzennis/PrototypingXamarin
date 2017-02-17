@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		x:Class="PrototypingXamarin.LoginPage"
+		BackgroundImage="bg.png">
+	<ContentPage.Content>
+		<StackLayout
+				Spacing="20">
+			<Image
+				Source="xamagon.png"
+				WidthRequest="100"
+				HeightRequest="100"
+				HorizontalOptions="Center"
+				Margin="0, 100, 0, 0"/>
+			<StackLayout
+				HorizontalOptions="FillAndExpand"
+				Margin="10,0,10,0">
+				<Entry
+					Placeholder="Username"
+					PlaceholderColor="White"/>
+				<Entry
+					Placeholder="Password"
+					PlaceholderColor="White"/>
+			</StackLayout>
+			<StackLayout
+				HorizontalOptions="FillAndExpand"
+				Margin="10,0,10,0">
+					 <Button
+						x:Name="buttonLogin"
+						Text="Log in"
+						TextColor="#3B99D8"
+						BackgroundColor="White"
+						HeightRequest="50"/>
+			</StackLayout>
+			<Button
+				x:Name="buttonForgot"
+				Text="Forgot your password?"
+				TextColor="White"
+				BackgroundColor="Transparent"/>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
